@@ -4,7 +4,7 @@ class Connection
 
 {
 
-    public $server = "sql113.epizy.com", $user = "epiz_30723796", $password = "FhXAkykjVZ", $db = "epiz_30723796_bakery";
+    public $server = "SERVERNAME", $user = "USERNAME", $password = "PASSWORD", $db = "DB_NAME";
 
     public $conn = NULL;
 
