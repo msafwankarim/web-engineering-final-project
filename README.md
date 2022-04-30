@@ -4,4 +4,5 @@ Frontend was developed using HTML, CSS, JavaScript, Bootstrap and jQuery and bac
 
 ### Homepage Preview
 
-![Homepage](https://user-images.githubusercontent.com/66724151/166111927-dae047a8-24ef-48c2-aa0f-548b7b20976a.png)
+
+![Homepage Preview](https://user-images.githubusercontent.com/66724151/166112090-1939fb51-3e86-48da-ac18-ff2f6f6659b9.jpg)
