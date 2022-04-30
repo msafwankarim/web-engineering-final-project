@@ -2,6 +2,8 @@
 E-Bakers was a semester project for Web Engineering course. It was created to utilize all important skills required in web development. 
 Frontend was developed using HTML, CSS, JavaScript, Bootstrap and jQuery and backend was developed using vanilla PHP
 
+**URL**: http://ebakers.infinityfreeapp.com/
+
 ### Home Page Preview
 
 ![Homepage Preview](https://user-images.githubusercontent.com/66724151/166112090-1939fb51-3e86-48da-ac18-ff2f6f6659b9.jpg)
