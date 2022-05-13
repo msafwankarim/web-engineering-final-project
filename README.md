@@ -4,7 +4,7 @@ Frontend was developed using HTML, CSS, JavaScript, Bootstrap and jQuery and bac
 
 **URL**: http://ebakers.infinityfreeapp.com/
 
-**Contributors**: @msafwankarim @bilal42011
+**Contributors**: [@msafwankarim](https://github.com/msafwankarim) [@bilal42011](https://github.com/bilal42011)
 
 ### Home Page Preview
 
