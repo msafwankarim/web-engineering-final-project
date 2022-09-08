@@ -164,11 +164,11 @@
                 <div class="form-group">
                     <textarea placeholder="Message (optional)" name="msg" class="form-control"></textarea>
                 </div>
-                <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6LeB-hoeAAAAABbSExG2D4qLDZTtCj9Nyk7RkKYs"></div>
+                <!-- <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6LeB-hoeAAAAABbSExG2D4qLDZTtCj9Nyk7RkKYs"></div>
                 <div id="g-recaptcha-error"></div>
                 <small class="form-text text-muted">
                     * This is required.
-                </small>
+                </small> -->
                 <div class="form-submit col-5 m-auto">
                     <button type="submit" id="" class="btn btn-success btn-block">
                         <div class="spinner-border d-none" role="status">
