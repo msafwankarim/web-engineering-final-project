@@ -1,5 +1,4 @@
-.vscode
-.git
+/.vscode
 Connection.php
 captcha.php
 sendsms.php
