@@ -1,0 +1,16 @@
+//Sample Request
+http://apilayer.net/api/validate?access_key=e3e6b137adf01723b2589f0e8ba08fb3&number=3435594083&country_code=PK&format=%201
+
+//response
+{
+  "valid":true,
+  "number":"923435594083",
+  "local_format":"03435594083",
+  "international_format":"+923435594083",
+  "country_prefix":"+92",
+  "country_code":"PK",
+  "country_name":"Pakistan (Islamic Republic of)",
+  "location":"",
+  "carrier":"",
+  "line_type":"mobile"
+}
